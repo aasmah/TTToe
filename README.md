@@ -4,10 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Roadmap of Future Improvements
-#three aligned boxes to blink with the win score or line goes through.
-#reset board animation.
-#increase levels of game.
-#increase the grid  squares and make 4 aligned to win.
+
+# I might make components in repo like board square game score.
+
+#three aligned boxes to blink with the winning score or line goes through. ( color changing with interval css with call back again)
+
+#reset board animation. #increase levels of the game.  (may be a bootstrap  animation would help) with call-back intervals for the board to re-appear.)
+
+#increase the grid squares and make 4 aligned to win.( this would be the same way as we filled square in the exercise.)
 
 
 
