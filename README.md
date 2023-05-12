@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Roadmap of Future Improvements
+#three aligned boxes to blink with the win score or line goes through.
+#reset board animation.
+#increase levels of game.
+#increase the grid  squares and make 4 aligned to win.
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
