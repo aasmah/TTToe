@@ -140,6 +140,7 @@ function isSuperset(set, subset) {
   return true;
 }
 
+// export default Game
 // ReactDOM.createRoot(rootNode).render(<Game />);
+ReactDOM.render(<Game />, document.getElementById('root'));
 
-export default Game
